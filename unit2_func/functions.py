@@ -29,7 +29,8 @@ def train_test_wrangle(data, target):
         # y_pred - predicted values in a y matrix
 from sklearn.utils.multiclass import unique_labels
 from sklearn.metrics import confusion_matrix
-import seaborn as sns 
+import seaborn as sns
+import pandas as pd
 
 def plot_confusion_matrix(y_true, y_pred):
     labels = unique_labels(y_true)
