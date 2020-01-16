@@ -7,7 +7,7 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='dspt3-unit2-freq-used-functions',
-    version='1.1',
+    version='1.2',
     author='James Barciz',
     author_email='jamesjbarciz@gmail.com',
     description='functions for train/val/test-matrix integration and confusion matrix visualization',
