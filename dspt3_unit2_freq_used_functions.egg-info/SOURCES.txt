@@ -1,0 +1,8 @@
+README.md
+setup.py
+dspt3_unit2_freq_used_functions.egg-info/PKG-INFO
+dspt3_unit2_freq_used_functions.egg-info/SOURCES.txt
+dspt3_unit2_freq_used_functions.egg-info/dependency_links.txt
+dspt3_unit2_freq_used_functions.egg-info/top_level.txt
+unit2_func/__init__.py
+unit2_func/functions.py
