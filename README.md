@@ -1,0 +1,1 @@
+This package contains two functions used in Lambda School's dspt3 class from our instructer for Unit 2, Bruno Janota.  First, a function with which to wrangle a dataset into X and y matrices and second, a function which better visualizes the Confusion Matrix module from scikit-learn using Seaborn's heatmap utility.
